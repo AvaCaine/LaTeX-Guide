@@ -62,3 +62,4 @@ The two primary list environments are used for bullet points and numbered lists.
     \item First point.
     \item Second point.
 \end{itemize}
+```

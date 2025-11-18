@@ -42,12 +42,12 @@ These are the most frequent commands you'll use to emphasize text or include spe
 
 | Command | Output / Purpose | Example |
 | :--- | :--- | :--- |
-| **Bold Text** | **Bold** | ```latex \textbf{This is bold}``` |
-| **Italic Text** | *Italic* | ```latex \textit{This is italic}``` |
-| **Monospace** | ```Monospace``` | ```latex \texttt{This is code}``` |
-| **Line Break** | Forces a new line | ```latex First line\\Second line``` |
-| **Footnote** | Adds a numbered footnote | ```latex The claim is correct\footnote{See source A.}``` |
-| **Quotation** | Indented quotation block | ```latex \begin{quote} ... \end{quote}``` |
+| **Bold Text** | **Bold** | ```\textbf{This is bold}``` |
+| **Italic Text** | *Italic* | ```\textit{This is italic}``` |
+| **Monospace** | ```Monospace``` | ```\texttt{This is code}``` |
+| **Line Break** | Forces a new line | ```First line\\Second line``` |
+| **Footnote** | Adds a numbered footnote | ```The claim is correct\footnote{See source A.}``` |
+| **Quotation** | Indented quotation block | ```\begin{quote} ... \end{quote}``` |
 
 -----
 
